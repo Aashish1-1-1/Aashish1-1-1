@@ -6,5 +6,6 @@
 - [x] Segfaults: daily
 - [ ] Documentation: pending
 - [ ] Test Cases: pending
-- [x] Uses Vim: obviously[dotfile(aka Sisyphus)](http://github.com/Aashish1-1-/Sisyphus)
-- [x] Humble: Clearly — I only mentioned Vim once.
+- [x] Uses Vim: obviously[dotfile(aka Sisyphus)](http://github.com/Aashish1-1-1/Sisyphus)
+- [x] Humble: Obviously, wouldn’t have mentioned Vim if I weren’t.
+- [x] Optimization: Ofcourse, I run faster than my code
